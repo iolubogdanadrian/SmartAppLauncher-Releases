@@ -2,7 +2,6 @@
 *.pdb
 *.class
 *.dll
-*.exe
 *.obj
 *.cache
 
