@@ -8,7 +8,7 @@ installer.
 
 ## ⬇️ Download
 
-**[Download for Windows (v0.3.0)](https://github.com/iolubogdanadrian/SmartAppLauncher-Releases/releases/download/v0.3.0/Smart.App.Launcher-Setup-0.3.0.exe)**
+**[Download for Windows (v0.3.0)](https://github.com/iolubogdanadrian/SmartAppLauncher-Releases/Smart.App.Launcher-Setup-0.3.0.exe)**
 
 - Free · Windows 10 & 11 · ~152 MB installer
 - One click downloads the installer, then run it to install.
