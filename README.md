@@ -4,19 +4,16 @@ Website: https://smartapplauncher.netlify.app/
 
 Smart App Launcher opens every app, document, folder, and browser tab a task
 needs — in one click, or automatically. This repository hosts the public Windows
-installers.
+installer.
 
 ## ⬇️ Download
 
-**[Download for Windows (v0.3.0)](https://github.com/iolubogdanadrian/SmartAppLauncher-Releases/releases/download/v0.3.0/SmartAppLauncher-Setup-0.3.0.exe)**
+**[Download for Windows (v0.3.0)](https://github.com/iolubogdanadrian/SmartAppLauncher-Releases/releases/download/v0.3.0/Smart.App.Launcher-Setup-0.3.0.exe)**
 
 - Free · Windows 10 & 11 · ~152 MB installer
 - One click downloads the installer, then run it to install.
-- Every published version is available on the [Releases page](https://github.com/iolubogdanadrian/SmartAppLauncher-Releases/releases).
 
-## Smart App Launcher 0.3.0
-
-### ✨ Highlights
+## What it does
 
 - **One-click launching** — open a whole workspace of apps, files, folders, and
   browser tabs in the order and on the monitors you chose.
